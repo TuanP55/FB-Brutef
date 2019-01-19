@@ -1,2 +1,2 @@
-# hekel
-#capenuliskerjainsendiri:V
+#beranyadulupadayangbuatgimanacarapakainya
+#wordlistbuatsendiri:V
