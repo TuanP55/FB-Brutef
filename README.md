@@ -16,4 +16,3 @@ python2 Fb-Brute.py
 dan jalanin
 terus wordlis sudah saya sediakan
 dan itulah
-Aing noob aing juga nyontek :v
