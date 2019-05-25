@@ -10,9 +10,11 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/VrX55/FB-Brutef
 cd FB-Brutef
-pilih script yang kamu 2 karena ada 2 versi
-misalkan
-python2 Fb-
-dan jalanin
-terus wordlist sudah saya sediakan
-dan itu
+python2 bforce.py <ID> <pass.txt>
+silahkan edit pass.txt nya
+nano pass.txt
+
+
+
+
+
