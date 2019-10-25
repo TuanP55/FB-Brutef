@@ -21,7 +21,7 @@ pareasi ="""
 [ FACEBOOK BRUTE FORCE ]
 [ Coded By VRX ]
 [ Version BETA ]
-"""%(B,W)
+"""
 def start():
 	hek = sys.executable
 	os.execl(hek, hek, * sys.agrv)
